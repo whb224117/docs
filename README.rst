@@ -37,7 +37,8 @@ Documentation
   3. `Using execution tracers <src/Howtos/ExecutionTracers.rst>`_
   4. `Running S2E on multiple cores <src/Howtos/Parallel.rst>`_
   5. `Writing S2E plugins <src/Howtos/WritingPlugins.rst>`_
-  6. `Communicating between the guest and S2E plugins <src/Plugins/BaseInstructions.rst>`_
+  6. `Wring S2E Python plugins <src/Howtos/WritingPythonPlugins.rst>`_
+  7. `Communicating between the guest and S2E plugins <src/Plugins/BaseInstructions.rst>`_
 
 * Advanced topics
 
@@ -65,7 +66,7 @@ S2E Development
 * `Contributing to S2E <src/Contribute.rst>`_
 * `Profiling S2E <src/ProfilingS2E.rst>`_
 * `Debugging S2E <src/DebuggingS2E.rst>`_
-
+* `Python support <src/PythonSupport.rst>`_
 
 S2E Plugin Reference
 ====================
